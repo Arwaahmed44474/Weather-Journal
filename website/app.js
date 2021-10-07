@@ -1,5 +1,5 @@
 const baisUrl = 'http://api.openweathermap.org/data/2.5/weather?zip=';
-const apiKey = '0259cac8d5a4d2f11f2cef8ab0398d8b'
+const apiKey = '0259cac8d5a4d2f11f2cef8ab0398d8b&units=metric'
 
 let zip = document.getElementById('zip');
 let feelings = document.getElementById('feelings');
